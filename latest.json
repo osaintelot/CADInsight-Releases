@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "1.4",
-                "code":  5,
-                "file":  "app/CADInsight-1.4.apk",
-                "sha256":  "fe0fca0e8aff40cd049c66fe5c3b646ab7c3e3707edfefd7354d407ef9caaf7e",
-                "notes":  "Update checker: the app now finds new app and firmware versions on its own."
+                "version":  "1.5",
+                "code":  6,
+                "file":  "app/CADInsight-1.5.apk",
+                "sha256":  "3c0b6fb1fd2353a90422cc19468cfcd9cce93414c6eb6f3a1b85214b170470a0",
+                "notes":  "Your runs now live on your phone: synced automatically, viewable and shareable offline. New: personal bests, a Garage for each car (name, race weight, notes), the user manual in the app, and firmware built in."
             },
     "firmware":  {
                      "version":  "1.4",
                      "file":  "firmware/CADInsight-fw-1.4.bin",
                      "sha256":  "497ab374da057c64703c5a36f14a41e15352aef42864c91550e22759458eb875",
-                     "notes":  "Update checker: the app now finds new app and firmware versions on its own."
+                     "notes":  "Your runs now live on your phone: synced automatically, viewable and shareable offline. New: personal bests, a Garage for each car (name, race weight, notes), the user manual in the app, and firmware built in."
                  },
     "published":  "2026-11-07"
 }
