@@ -1,0 +1,16 @@
+{
+    "app":  {
+                "version":  "1.4",
+                "code":  5,
+                "file":  "app/CADInsight-1.4.apk",
+                "sha256":  "fe0fca0e8aff40cd049c66fe5c3b646ab7c3e3707edfefd7354d407ef9caaf7e",
+                "notes":  "Update checker: the app now finds new app and firmware versions on its own."
+            },
+    "firmware":  {
+                     "version":  "1.4",
+                     "file":  "firmware/CADInsight-fw-1.4.bin",
+                     "sha256":  "497ab374da057c64703c5a36f14a41e15352aef42864c91550e22759458eb875",
+                     "notes":  "Update checker: the app now finds new app and firmware versions on its own."
+                 },
+    "published":  "2026-11-07"
+}
