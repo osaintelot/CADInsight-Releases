@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "1.7",
-                "code":  8,
-                "file":  "app/CADInsight-1.7.apk",
-                "sha256":  "225c373c5d69d64316bedf41e9b23fb59b8638acf05411aada20a093bfcc1939",
-                "notes":  "New timing modes: Rolling (30-70, 40-100, 60-130 or custom) and Braking 60-0, set in Settings \u003e Performance. Drag runs add 0-30 and peak g. Trim any run to choose what shows when reviewing or sharing (incl. End at 1/8). Results screen time is now adjustable."
+                "version":  "1.8",
+                "code":  9,
+                "file":  "app/CADInsight-1.8.apk",
+                "sha256":  "0c61e6be340c729d875c266cba6de543c64615df73dd4827555e05132b36a37f",
+                "notes":  "Analysis: compare two runs on one graph, progress charts over time, notes and tags on any run (filter by tag, included in CSV), and a faster live view with a live speed graph."
             },
     "firmware":  {
-                     "version":  "1.6",
-                     "file":  "firmware/CADInsight-fw-1.6.bin",
-                     "sha256":  "55b61c9f4df466c3b910327256f2aa4dc56f53c25a8f4e70d48aa6cc44c4edcf",
-                     "notes":  "New timing modes: Rolling (30-70, 40-100, 60-130 or custom) and Braking 60-0, set in Settings \u003e Performance. Drag runs add 0-30 and peak g. Trim any run to choose what shows when reviewing or sharing (incl. End at 1/8). Results screen time is now adjustable."
+                     "version":  "1.7",
+                     "file":  "firmware/CADInsight-fw-1.7.bin",
+                     "sha256":  "1dfc3ef24ea8d3d9fbca0a7c9857cca8175ef638e78e169a065ebfeaed5a8d22",
+                     "notes":  "Analysis: compare two runs on one graph, progress charts over time, notes and tags on any run (filter by tag, included in CSV), and a faster live view with a live speed graph."
                  },
     "published":  "2026-11-07"
 }
