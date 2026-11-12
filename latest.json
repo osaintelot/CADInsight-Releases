@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "2.1",
-                "code":  12,
-                "file":  "app/CADInsight-2.1.apk",
-                "sha256":  "56513ca64161916306c415dd5796e9605ab7e47c72fce251d3a2d38ddcdba555",
-                "notes":  "Full-screen camera view that turns with the phone, practice tree with reaction time, bigger video player with full screen."
+                "version":  "2.2",
+                "code":  13,
+                "file":  "app/CADInsight-2.2.apk",
+                "sha256":  "15b558f535d02be533388adedf8b184dd1a31514d6aabe8152b5acf16d96441b",
+                "notes":  "Practice tree and reaction time can be shown on run videos. Includes the full-screen camera view, rotation and bigger player from 2.1."
             },
     "firmware":  {
                      "version":  "1.7",
                      "file":  "firmware/CADInsight-fw-1.7.bin",
                      "sha256":  "1dfc3ef24ea8d3d9fbca0a7c9857cca8175ef638e78e169a065ebfeaed5a8d22",
-                     "notes":  "Full-screen camera view that turns with the phone, practice tree with reaction time, bigger video player with full screen."
+                     "notes":  "Practice tree and reaction time can be shown on run videos. Includes the full-screen camera view, rotation and bigger player from 2.1."
                  },
     "published":  "2026-11-11"
 }
