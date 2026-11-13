@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "2.5",
-                "code":  16,
-                "file":  "app/CADInsight-2.5.apk",
-                "sha256":  "5237cf5fb9d8b17a6ba960ed27b7932b1e62c3160b4efc720d64c2b715f72e60",
-                "notes":  "Firmware 1.8: photo face time can be dragged anywhere and its black box turned off. App 2.5: run headers show the time again (12-hour)."
+                "version":  "2.6",
+                "code":  17,
+                "file":  "app/CADInsight-2.6.apk",
+                "sha256":  "a11b215d50ece47e9ac69a173b3b3b1afab95560048bb8538767ffe78b36eaa6",
+                "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude."
             },
     "firmware":  {
-                     "version":  "1.8",
-                     "file":  "firmware/CADInsight-fw-1.8.bin",
-                     "sha256":  "485e5fd18075a90c2995ce23751ea6ed5b50effd7245f31b662ce1b31364b61b",
-                     "notes":  "Firmware 1.8: photo face time can be dragged anywhere and its black box turned off. App 2.5: run headers show the time again (12-hour)."
+                     "version":  "1.9",
+                     "file":  "firmware/CADInsight-fw-1.9.bin",
+                     "sha256":  "857fe6032cbe5d1692c3ea78c5e2a19809352250caf7e7706e4f7ee931e2e135",
+                     "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude."
                  },
     "published":  "2026-11-12"
 }
