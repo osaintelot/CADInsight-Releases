@@ -3,14 +3,14 @@
                 "version":  "2.6",
                 "code":  17,
                 "file":  "app/CADInsight-2.6.apk",
-                "sha256":  "4b7c651b0710e5344ab2d40e6a8e2c9b8959bf6e70bff16695359b970817eac7",
-                "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude. Run card buttons wrap so Delete always shows."
+                "sha256":  "07f10aef66a758e46559290f664e6cdcca6b22d9f07973b409db04c626c8c6e2",
+                "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude. Delete is back, in each run\u0027s header."
             },
     "firmware":  {
                      "version":  "1.9",
                      "file":  "firmware/CADInsight-fw-1.9.bin",
                      "sha256":  "857fe6032cbe5d1692c3ea78c5e2a19809352250caf7e7706e4f7ee931e2e135",
-                     "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude. Run card buttons wrap so Delete always shows."
+                     "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude. Delete is back, in each run\u0027s header."
                  },
     "published":  "2026-11-12"
 }
