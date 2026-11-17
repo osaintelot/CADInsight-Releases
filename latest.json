@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "2.7",
-                "code":  18,
-                "file":  "app/CADInsight-2.7.apk",
-                "sha256":  "53d46f0fcfe7d25164ba90dbe2d50135d0a37e3441b108a2bb2a597a6907ad37",
-                "notes":  "App 2.7: the camera view only shows REC once the camera is really recording. If another app is holding the camera, the app now says \u0027Not recording\u0027 with the reason, retries on its own, and starts recording as soon as the camera is free."
+                "version":  "2.8",
+                "code":  19,
+                "file":  "app/CADInsight-2.8.apk",
+                "sha256":  "ac70c32e201ab8294e5b877b566d744a33705e51d17c9c133fce12e6d18917a6",
+                "notes":  "Firmware 2.0 / app 2.8: Auto-arm (optional, drag mode): the unit arms itself after you stop for 3 s; normal driving is dropped, not saved. Live delta: during a drag run see how far ahead or behind your best run you are at the same distance."
             },
     "firmware":  {
-                     "version":  "1.9",
-                     "file":  "firmware/CADInsight-fw-1.9.bin",
-                     "sha256":  "857fe6032cbe5d1692c3ea78c5e2a19809352250caf7e7706e4f7ee931e2e135",
-                     "notes":  "App 2.7: the camera view only shows REC once the camera is really recording. If another app is holding the camera, the app now says \u0027Not recording\u0027 with the reason, retries on its own, and starts recording as soon as the camera is free."
+                     "version":  "2.0",
+                     "file":  "firmware/CADInsight-fw-2.0.bin",
+                     "sha256":  "6a9b9d4b74b9ee2aef19ecac507a7bd95e3c0f4128deb0b214c3f77d44227697",
+                     "notes":  "Firmware 2.0 / app 2.8: Auto-arm (optional, drag mode): the unit arms itself after you stop for 3 s; normal driving is dropped, not saved. Live delta: during a drag run see how far ahead or behind your best run you are at the same distance."
                  },
     "published":  "2026-11-17"
 }
