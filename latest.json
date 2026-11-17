@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "2.6",
-                "code":  17,
-                "file":  "app/CADInsight-2.6.apk",
-                "sha256":  "07f10aef66a758e46559290f664e6cdcca6b22d9f07973b409db04c626c8c6e2",
-                "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude. Delete is back, in each run\u0027s header."
+                "version":  "2.7",
+                "code":  18,
+                "file":  "app/CADInsight-2.7.apk",
+                "sha256":  "53d46f0fcfe7d25164ba90dbe2d50135d0a37e3441b108a2bb2a597a6907ad37",
+                "notes":  "App 2.7: the camera view only shows REC once the camera is really recording. If another app is holding the camera, the app now says \u0027Not recording\u0027 with the reason, retries on its own, and starts recording as soon as the camera is free."
             },
     "firmware":  {
                      "version":  "1.9",
                      "file":  "firmware/CADInsight-fw-1.9.bin",
                      "sha256":  "857fe6032cbe5d1692c3ea78c5e2a19809352250caf7e7706e4f7ee931e2e135",
-                     "notes":  "Weather correction: runs can be shown corrected to SAE standard air, using local weather (can be turned off) or GPS altitude. Firmware 1.9 saves each run\u0027s location and altitude. Delete is back, in each run\u0027s header."
+                     "notes":  "App 2.7: the camera view only shows REC once the camera is really recording. If another app is holding the camera, the app now says \u0027Not recording\u0027 with the reason, retries on its own, and starts recording as soon as the camera is free."
                  },
-    "published":  "2026-11-12"
+    "published":  "2026-11-17"
 }
