@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "2.9",
-                "code":  20,
-                "file":  "app/CADInsight-2.9.apk",
-                "sha256":  "fb5bd87548b1b50af3aa9b8636d804daec27a81dd5b463a0c43768f6ac94e57a",
-                "notes":  "Firmware 2.1 / app 2.9: the auto-arm \u002730 mph within\u0027 time is adjustable (3-10 s, default 5) in the app and on the unit. Includes auto-arm and live delta from 2.0 / 2.8."
+                "version":  "3.0",
+                "code":  21,
+                "file":  "app/CADInsight-3.0.apk",
+                "sha256":  "3193bbf1b901b79d21ae2da0be41bc0827fb2924abba27d6fdd07199a8cbf737",
+                "notes":  "Firmware 2.2 / app 3.0: Run diagnostic. If something isn\u0027t working, run it from the app (Settings \u003e Having trouble?) or on the unit (Settings page 5). It checks the GPS, clock, SD card, Wi-Fi, touch, power and the phone, says what to fix, and can send a report."
             },
     "firmware":  {
-                     "version":  "2.1",
-                     "file":  "firmware/CADInsight-fw-2.1.bin",
-                     "sha256":  "b13680d305f7ec8a8b99abcfda4d29f642c4649c8203fd2f1184be08ef29985a",
-                     "notes":  "Firmware 2.1 / app 2.9: the auto-arm \u002730 mph within\u0027 time is adjustable (3-10 s, default 5) in the app and on the unit. Includes auto-arm and live delta from 2.0 / 2.8."
+                     "version":  "2.2",
+                     "file":  "firmware/CADInsight-fw-2.2.bin",
+                     "sha256":  "78882d460c7cf57a77a0cd33b563acb61589271b6adc53424e4f3a48e2aae795",
+                     "notes":  "Firmware 2.2 / app 3.0: Run diagnostic. If something isn\u0027t working, run it from the app (Settings \u003e Having trouble?) or on the unit (Settings page 5). It checks the GPS, clock, SD card, Wi-Fi, touch, power and the phone, says what to fix, and can send a report."
                  },
     "published":  "2026-11-17"
 }
