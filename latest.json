@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "3.0",
-                "code":  21,
-                "file":  "app/CADInsight-3.0.apk",
-                "sha256":  "3193bbf1b901b79d21ae2da0be41bc0827fb2924abba27d6fdd07199a8cbf737",
-                "notes":  "Firmware 2.2 / app 3.0: Run diagnostic. If something isn\u0027t working, run it from the app (Settings \u003e Having trouble?) or on the unit (Settings page 5). It checks the GPS, clock, SD card, Wi-Fi, touch, power and the phone, says what to fix, and can send a report."
+                "version":  "3.1",
+                "code":  22,
+                "file":  "app/CADInsight-3.1.apk",
+                "sha256":  "5f4b0d066beac8a6e184ef44832f531234f9c0cb2d49e0aff7770a1e756c38ba",
+                "notes":  "App 3.1: run video overlay no longer overlaps the time and distance once a run passes 10 seconds and 1000 ft."
             },
     "firmware":  {
                      "version":  "2.2",
                      "file":  "firmware/CADInsight-fw-2.2.bin",
                      "sha256":  "78882d460c7cf57a77a0cd33b563acb61589271b6adc53424e4f3a48e2aae795",
-                     "notes":  "Firmware 2.2 / app 3.0: Run diagnostic. If something isn\u0027t working, run it from the app (Settings \u003e Having trouble?) or on the unit (Settings page 5). It checks the GPS, clock, SD card, Wi-Fi, touch, power and the phone, says what to fix, and can send a report."
+                     "notes":  "App 3.1: run video overlay no longer overlaps the time and distance once a run passes 10 seconds and 1000 ft."
                  },
-    "published":  "2026-11-17"
+    "published":  "2026-11-18"
 }
