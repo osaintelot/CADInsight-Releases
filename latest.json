@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "3.2",
-                "code":  23,
-                "file":  "app/CADInsight-3.2.apk",
-                "sha256":  "f9cdbcafc80a3518da8ce001f128acaec1539b8c374916313190d47a7eadf4ef",
-                "notes":  "Terms and Conditions: the unit and the app ask you to agree once before first use (cadautotrims.com/terms). Weather lookup is now chosen on that screen. Seller tool: hold BOOT 8 s to prepare a unit for a customer."
+                "version":  "3.3",
+                "code":  24,
+                "file":  "app/CADInsight-3.3.apk",
+                "sha256":  "297f7a41858eb599ce31f6b2eab7f97ff229f147730c93c97e5c428ae22d0266",
+                "notes":  "Fix: text on the Before you start screen is now readable."
             },
     "firmware":  {
                      "version":  "2.3",
                      "file":  "firmware/CADInsight-fw-2.3.bin",
                      "sha256":  "abf28db018787e3c55655b23e3a1d1c88d0b2d7a58efdc2a270fd7829526dd19",
-                     "notes":  "Terms and Conditions: the unit and the app ask you to agree once before first use (cadautotrims.com/terms). Weather lookup is now chosen on that screen. Seller tool: hold BOOT 8 s to prepare a unit for a customer."
+                     "notes":  "Fix: text on the Before you start screen is now readable."
                  },
     "published":  "2026-11-19"
 }
