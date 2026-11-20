@@ -1,16 +1,16 @@
 {
     "app":  {
-                "version":  "3.1",
-                "code":  22,
-                "file":  "app/CADInsight-3.1.apk",
-                "sha256":  "5f4b0d066beac8a6e184ef44832f531234f9c0cb2d49e0aff7770a1e756c38ba",
-                "notes":  "App 3.1: run video overlay no longer overlaps the time and distance once a run passes 10 seconds and 1000 ft."
+                "version":  "3.2",
+                "code":  23,
+                "file":  "app/CADInsight-3.2.apk",
+                "sha256":  "f9cdbcafc80a3518da8ce001f128acaec1539b8c374916313190d47a7eadf4ef",
+                "notes":  "Terms and Conditions: the unit and the app ask you to agree once before first use (cadautotrims.com/terms). Weather lookup is now chosen on that screen. Seller tool: hold BOOT 8 s to prepare a unit for a customer."
             },
     "firmware":  {
-                     "version":  "2.2",
-                     "file":  "firmware/CADInsight-fw-2.2.bin",
-                     "sha256":  "78882d460c7cf57a77a0cd33b563acb61589271b6adc53424e4f3a48e2aae795",
-                     "notes":  "App 3.1: run video overlay no longer overlaps the time and distance once a run passes 10 seconds and 1000 ft."
+                     "version":  "2.3",
+                     "file":  "firmware/CADInsight-fw-2.3.bin",
+                     "sha256":  "abf28db018787e3c55655b23e3a1d1c88d0b2d7a58efdc2a270fd7829526dd19",
+                     "notes":  "Terms and Conditions: the unit and the app ask you to agree once before first use (cadautotrims.com/terms). Weather lookup is now chosen on that screen. Seller tool: hold BOOT 8 s to prepare a unit for a customer."
                  },
-    "published":  "2026-11-18"
+    "published":  "2026-11-19"
 }
